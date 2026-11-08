@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.C_C_Szfk.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"why-oslocms.md","filePath":"why-oslocms.md"}'),s={name:"why-oslocms.md"};function a(c,r,n,m,l,p){return t(),o("div")}const i=e(s,[["render",a]]);export{d as __pageData,i as default};

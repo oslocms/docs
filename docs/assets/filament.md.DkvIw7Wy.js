@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.C_C_Szfk.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"filament.md","filePath":"filament.md"}'),n={name:"filament.md"};function r(o,s,c,i,m,f){return t(),a("div")}const _=e(n,[["render",r]]);export{p as __pageData,_ as default};
